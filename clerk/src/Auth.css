@@ -1,0 +1,72 @@
+.auth-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full height */
+}
+
+.auth-left {
+    justify-content: flex-start; /* Align to left */
+}
+
+.auth-right {
+    justify-content: flex-end; /* Align to right */
+}
+
+.auth-top {
+    align-items: flex-start; /* Align to top */
+}
+
+.auth-bottom {
+    align-items: flex-end; /* Align to bottom */
+}
+.auth-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full height */
+}
+
+.auth-left {
+    justify-content: flex-start; /* Align to left */
+}
+
+.auth-right {
+    justify-content: flex-end; /* Align to right */
+}
+
+.auth-top {
+    align-items: flex-start; /* Align to top */
+}
+
+.auth-bottom {
+    align-items: flex-end; /* Align to bottom */
+}
+.auth-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full height */
+}
+
+.auth-left {
+    justify-content: flex-start; /* Align to left */
+}
+
+.auth-right {
+    justify-content: flex-end; /* Align to right */
+}
+
+.auth-top {
+    align-items: flex-start; /* Align to top */
+}
+
+.auth-bottom {
+    align-items: flex-end; /* Align to bottom */
+}
+.custom-container {
+    position: absolute;
+    top: 50%;  /* Adjust vertical position */
+    left: 50%; /* Adjust horizontal position */
+    transform: translate(-50%, -50%);
+}
